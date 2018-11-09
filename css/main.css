@@ -1160,7 +1160,6 @@ button:focus {
 }
 
 .text-wrapper > div {
-  vertical-align: middle;
   display: table-cell;
 }
 
