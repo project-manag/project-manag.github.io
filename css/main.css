@@ -208,7 +208,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 }
 
 .btn.quiz-button {
-   padding: 11px 80px;
+   padding: 11px 50px;
 }
 
 .btn:focus,
