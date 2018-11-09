@@ -144,10 +144,6 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
   margin-top: 70px;
 }
 
-.quiz-button {
-   padding: 11px 80px;
-}
-
 .files-section {
   padding: 120px 0 102px;
 }
@@ -209,6 +205,10 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
   -o-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
   display: inline-block;
+}
+
+.btn.quiz-button {
+   padding: 11px 80px;
 }
 
 .btn:focus,
